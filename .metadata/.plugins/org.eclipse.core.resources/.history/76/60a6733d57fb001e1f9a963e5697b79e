@@ -1,0 +1,14 @@
+package vehiculos;
+
+public class Vehiculo {
+	private String color;
+	
+	public Vehiculo() {
+		
+	}
+	
+	public Vehiculo(String color) {
+		this.color = color;
+	}
+	
+}

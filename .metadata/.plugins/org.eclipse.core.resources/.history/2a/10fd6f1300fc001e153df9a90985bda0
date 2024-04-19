@@ -1,0 +1,10 @@
+package ed.ship;
+
+public class DamShip {
+	private int row;
+	private int col;
+	private int life;
+	private int damage;
+	
+	
+}

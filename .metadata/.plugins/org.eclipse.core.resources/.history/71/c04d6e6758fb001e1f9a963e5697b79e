@@ -1,0 +1,5 @@
+package enums;
+
+public enum Color {
+	AZUL, ROJO, VERDE, MORADO, NEGRO, ROSA
+}

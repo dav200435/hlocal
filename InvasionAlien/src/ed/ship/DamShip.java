@@ -1,0 +1,17 @@
+package ed.ship;
+
+public class DamShip {
+	private int row;
+	private int col;
+	private int life;
+	private int damage;
+	
+	public DamShip() {
+		this.row=7;
+		this.col=4;
+		this.life=3;
+		this.damage=1;
+	}
+	
+	
+}
