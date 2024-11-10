@@ -1,0 +1,12 @@
+1
+a.t
+b.f it born at middle of 20th centuary
+c.t
+d.t
+
+2
+a.goberments and large corporations for complex calculations and data processing
+b.intel in 1971
+c.graphical user interfaces
+d.with a Project of EEUU goberment
+e.created http protocol and internet browsers making the web accesible for millions of persons
