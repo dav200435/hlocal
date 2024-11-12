@@ -5,11 +5,12 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.Scanner;
 
 public class TelegramBot {
-
-    private static final String TOKEN = "7796032247:AAGbLupiH9gSGkHbg2PNu6TLaqdKx44Os4c";
-    private static final String CHAT_ID = "5482275054";
+	static Scanner sc = new Scanner(System.in);
+    private static final String TOKEN = sc.nextLine();
+    private static final String CHAT_ID = sc.nextLine();
 
     public static void main(String[] args) {
         String procesos = obtenerProcesosActivos();
