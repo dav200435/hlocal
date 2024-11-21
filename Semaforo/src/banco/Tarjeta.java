@@ -2,11 +2,11 @@ package banco;
 
 import java.util.concurrent.Semaphore;
 
-public class Targeta extends Thread {
+public class Tarjeta extends Thread {
     private final CuentaBancaria cuenta;
     private static final Semaphore semaforo = new Semaphore(1);
 
-    public Targeta(CuentaBancaria cuenta) {
+    public Tarjeta(CuentaBancaria cuenta) {
         this.cuenta = cuenta;
     }
 
