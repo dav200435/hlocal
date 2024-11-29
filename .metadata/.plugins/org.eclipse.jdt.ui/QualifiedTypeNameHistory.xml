@@ -46,11 +46,12 @@
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="processBuilder.ejemploFind"/>
     <fullyQualifiedTypeName name="java.io.Reader"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="hilos.HilosDesdeCero"/>
     <fullyQualifiedTypeName name="hilosEjs.Ej4"/>
     <fullyQualifiedTypeName name="hilosEjs.Ej4Banco"/>
     <fullyQualifiedTypeName name="hilosEjs.Ej5"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="hilos.Contador"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
