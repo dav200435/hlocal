@@ -1,0 +1,32 @@
+[
+    {
+        "Nombre": "Nahiara",
+        "Ciclo": "DAM",
+        "Edad": 21,
+        "NotaMedia": 7.56
+    },
+    {
+        "Nombre": "Daniel",
+        "Ciclo": "DAM",
+        "Edad": 19,
+        "NotaMedia": 6.4
+    },
+    {
+        "Nombre": "Mario",
+        "Ciclo": "DAM",
+        "Edad": 20,
+        "NotaMedia": 7.2
+    },
+    {
+        "Nombre": "David",
+        "Ciclo": "DAM",
+        "Edad": 20,
+        "NotaMedia": 0.01
+    },
+    {
+        "Nombre": "Pepe",
+        "Ciclo": "Gestion Empresarial",
+        "Edad": 90,
+        "NotaMedia": 10
+    }
+]
