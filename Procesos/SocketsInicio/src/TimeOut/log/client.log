@@ -1,0 +1,2 @@
+2025-01-08T20:44:40.445191200 - Intentando conectarse al servidor en localhost:12345 con un timeout de 5 segundos.
+2025-01-08T20:44:40.482332 - Error en el cliente: Connection refused: getsockopt

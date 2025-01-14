@@ -1,0 +1,32 @@
+2025-01-08T20:39:32.958799700 - Servidor iniciado y esperando conexiones en el puerto 12345.
+2025-01-08T20:40:12.898717800 - Servidor iniciado y esperando conexiones en el puerto 12345.
+2025-01-08T20:41:08.520441600 - Servidor iniciado y esperando conexiones en el puerto 12345.
+2025-01-08T20:41:13.550755200 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:18.561975900 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:23.573727900 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:28.582221400 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:33.595909 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:38.608471600 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:43.618221800 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:48.631734300 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:53.637829600 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:41:58.653877 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:03.666805600 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:08.673068300 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:13.678199200 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:18.683662500 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:23.692363700 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:28.695220600 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:33.705264600 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:35.377938900 - Error al iniciar el servidor: Address already in use: bind
+2025-01-08T20:42:38.719801600 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:43.734993 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:48.750299700 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:53.759379100 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:42:58.772394300 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:43:03.778750600 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:43:08.789586700 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:43:13.798474 - Error al manejar una conexión del cliente: Accept timed out
+2025-01-08T20:44:43.336999300 - Servidor iniciado y esperando conexiones en el puerto 12345 con un timeout de 10 segundos.
+2025-01-08T20:44:53.373451 - Timeout: No se recibieron conexiones dentro del tiempo esperado.
+2025-01-08T20:45:03.380850500 - Timeout: No se recibieron conexiones dentro del tiempo esperado.

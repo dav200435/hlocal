@@ -26,7 +26,7 @@ public class Server {
                         System.out.println("Cliente dice: " + mensaje);
 
                         if (mensaje.equalsIgnoreCase("fin")) {
-                            out.println("Conexión terminada. Adiós.");
+                            out.println("Conexion terminada. Adios.");
                             running = false;
                             break;
                         }
@@ -37,7 +37,7 @@ public class Server {
                     System.err.println("Error al manejar cliente: " + e.getMessage());
                 } finally {
                     clientSocket.close();
-                    System.out.println("Conexión cerrada con el cliente.");
+                    System.out.println("Conexion cerrada con el cliente.");
                 }
             }
 

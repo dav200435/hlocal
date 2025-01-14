@@ -1,0 +1,30 @@
+<inventory>
+	<product>
+		<name>Producto A</name>
+		<quantity>50</quantity>
+		<unitPrice>20.5</unitPrice>
+		<provider>Proveedor X</provider>
+		<entryDate>2024-01-15</entryDate>
+	</product>
+	<product>
+		<name>Producto B</name>
+		<quantity>30</quantity>
+		<unitPrice>12.99</unitPrice>
+		<provider>Proveedor y</provider>
+		<entryDate>2024-01-16</entryDate>
+	</product>
+	<product>
+		<name>Producto C</name>
+		<quantity>70</quantity>
+		<unitPrice>35.5</unitPrice>
+		<provider>Proveedor Z</provider>
+		<entryDate>2024-01-17</entryDate>
+	</product>
+	<product>
+		<name>Producto D</name>
+		<quantity>200</quantity>
+		<unitPrice>7.3</unitPrice>
+		<provider>Proveedor X</provider>
+		<entryDate>2024-01-17</entryDate>
+	</product>
+</inventory>
