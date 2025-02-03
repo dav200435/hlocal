@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\hlocal\Interfaces\ventana\target\ventana-1.0-SNAPSHOT-jar-with-dependencies.jar</jar>
+  <outfile>C:\hlocal\Interfaces\ventana\ejecutables\ventana.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.0</minVersion>
+    <maxVersion></maxVersion>
+    <opt>--module-path &quot;C:\Program Files\Java\javafx-sdk-23.0.1\lib&quot; </opt>
+    <opt>--add-modules javafx.controls,javafx.fxml</opt>
+  </jre>
+</launch4jConfig>
