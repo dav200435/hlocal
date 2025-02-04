@@ -62,4 +62,6 @@ public class IMDB implements Serializable {
     public String toString() {
         return "IMDB{" + "url=" + url + ", nota=" + nota + ", votos=" + votos + '}';
     }
+
+    
 }

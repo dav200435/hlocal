@@ -11,7 +11,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this 
 <!-- Database connection settings -->
 
     <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-    <property name="connection.url">jdbc:mysql://localhost:3308/cine</property>
+    <property name="connection.url">jdbc:mysql://localhost:3306/cine</property>
     <property name="connection.username">root</property>
     <property name="connection.password">root</property>
 
@@ -42,7 +42,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this 
     
     
     <!-- Mapping -->
-    <mapping resource="Peli.hbm.xml" />
+    <!-- <mapping resource="Peli.hbm.xml" /> -->
     
     <mapping class="Model.Peli_Anotada" />
   

@@ -65,4 +65,7 @@ public class Peli implements Serializable{
     public String toString() {
         return "Peli{" + "idPeli=" + idPeli + ", titulo=" + titulo + ", anyo=" + anyo + ", elDirector=" + elDirector + '}';
     }
+    
+    
+    
 }

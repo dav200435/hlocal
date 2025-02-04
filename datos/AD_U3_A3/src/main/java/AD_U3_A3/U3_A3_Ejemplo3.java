@@ -5,7 +5,6 @@
 package AD_U3_A3;
 
 import Model.IMDB;
-import Model.Peli;
 import Model.Peli_Anotada;
 import org.hibernate.Session;
 
